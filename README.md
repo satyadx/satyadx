@@ -2,7 +2,7 @@
 
 ###  Web3 Builder •  Content Creator •  Community Contributor
 
-Passionate about blockchain, DeFi, onchain applications, and community growth.
+Web3 Builder and Content Creator focused on decentralized applications, blockchain ecosystems, and driving adoption through education, products, and community engagement.
 
 ---
 
