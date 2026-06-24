@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Satya
 
-### Web3 Builder • Content Creator • Community Contributor
+### 🌐 Web3 Builder • ✍️ Content Creator • 🤝 Community Contributor
 
 Passionate about blockchain, DeFi, onchain applications, and community growth.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 * 🌍 Web3 enthusiast exploring decentralized technologies
 * 🏗️ Building and testing onchain applications
@@ -46,20 +46,44 @@ Passionate about blockchain, DeFi, onchain applications, and community growth.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyadx\&show_icons=true\&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyadx\&layout=compact\&theme=radical)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=satyadx&show_icons=true&theme=radical"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=satyadx\&theme=radical)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyadx&layout=compact&theme=radical"/>
+
+<img src="https://streak-stats.demolab.com?user=satyadx&theme=radical"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-* X (Twitter): https://x.com/hypersatyaa
-* LinkedIn: https://linkedin.com/in/SatyaRoy
+<div align="center">
+
+<a href="https://x.com/hypersatyaa">
+<img src="https://img.shields.io/badge/TWITTER-@SATYADX-1DA1F2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/satyadx">
+<img src="https://img.shields.io/badge/GITHUB-SATYADX-181717?style=for-the-badge"/>
+</a>
+
+<a href="https://yourwebsite.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT_MY_SITE-FF5722?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-> Building the decentralized future, one block at a time.
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=satyadx&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+*"Building the decentralized future, one block at a time."* ⛓️
+
+</div>
