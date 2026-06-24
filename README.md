@@ -76,14 +76,20 @@
 
 USDC to INR payment demo built on Arc Testnet
 
-Link : https://arc-ipay.vercel.app/
+<a href="https://arc-ipay.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-ARC_INDIPAY-1DA1F2?style=for-the-badge"/>
+</a>
 
 ### 🔹 IndiStock
 
 Concept platform for accessing Indian stock exposure using USDC.
 
-Link : https://arcstock.vercel.app/
+<a href="https://arcstock.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-INDISTOCK-FF5722?style=for-the-badge"/>
+</a>
+
 ---
+
 
 ## 📊 GitHub Stats
 
