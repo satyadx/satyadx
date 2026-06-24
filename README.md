@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Satya
+#  Hi, I'm Satya
 
-### 🌐 Web3 Builder • ✍️ Content Creator • 🤝 Community Contributor
+###  Web3 Builder •  Content Creator •  Community Contributor
 
 Passionate about blockchain, DeFi, onchain applications, and community growth.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🌍 Web3 enthusiast exploring decentralized technologies
-* 🏗️ Building and testing onchain applications
-* 🤝 Active contributor in Web3 communities
-* 📝 Creating educational and research-driven content
-* 📚 Continuously learning blockchain development
+* ➣ Web3 enthusiast exploring decentralized technologies
+* ➣ Building and testing onchain applications
+* ➣ Active contributor in Web3 communities
+* ➣ Creating educational and research-driven content
+* ➣ Continuously learning blockchain development
 
 ---
 
@@ -71,7 +71,7 @@ Passionate about blockchain, DeFi, onchain applications, and community growth.
 </a>
 
 <a href="https://yourwebsite.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT_MY_SITE-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GITHUB-SATYADX-181717?style=for-the-badge"/>
 </a>
 
 </div>
@@ -84,6 +84,5 @@ Passionate about blockchain, DeFi, onchain applications, and community growth.
 
 <br><br>
 
-*"Building the decentralized future, one block at a time."* ⛓️
-
+*"Building the decentralized future, one block at a time."* 
 </div>
