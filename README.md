@@ -143,6 +143,6 @@ Concept platform for accessing Indian stock exposure using USDC.
 
 <br><br>
 
-*"Building the decentralized future, one block at a time."* ⛓️
+*"Learning, building, and growing one block at a time."* 
 
 </div>
