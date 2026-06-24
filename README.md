@@ -74,13 +74,15 @@
 
 ### 🔹 ARC IndiPay
 
-USDC to INR payment demo built on Arc Testnet.
+USDC to INR payment demo built on Arc Testnet
+
+Link : https://arc-ipay.vercel.app/
 
 ### 🔹 IndiStock
 
 Concept platform for accessing Indian stock exposure using USDC.
 
-
+Link : https://arcstock.vercel.app/
 ---
 
 ## 📊 GitHub Stats
