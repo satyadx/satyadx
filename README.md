@@ -101,16 +101,6 @@ Link : https://arcstock.vercel.app/
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyadx\&theme=react-dark)](https://github.com/satyadx)
-
-</div>
-
----
-
 ## 🏆 Highlights
 
 * 🚀 Web3 Builder
